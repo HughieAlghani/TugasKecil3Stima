@@ -1,0 +1,17 @@
+8
+JalanMasukMasjid -6.710325 108.558882
+TowerMasjid -6.710506 108.558225
+JalanMasukSelatanAlun-Alun -6.710229 108.559201
+JalanMasukBaratAlun-Alun -6.710082 108.558863
+JalanMasukTimurAlun-Alun -6.709405 108.559576
+TuguKejaksan -6.709975 108.559887
+KantorWalikota -6.706908 108.558310
+SuperIndo -6.710390 108.560290
+1 1 1 1 0 0 0 0
+1 1 0 1 0 0 0 0
+1 0 1 0 0 1 0 0
+1 1 0 1 0 0 0 0
+0 0 0 0 1 1 1 0
+0 0 1 0 1 1 0 1
+0 0 0 0 1 0 1 0
+0 0 0 0 0 1 0 1

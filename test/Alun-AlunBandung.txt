@@ -1,0 +1,17 @@
+8
+ParkirBasemenAlun-Alun -6.922540 107.607347
+JalanMasukSelatanAlun-Alun -6.922357 107.607306
+TowerSelatanMasjid -6.922283 107.606483
+PintuMasukMasjid -6.921756 107.606699
+TowerUtaraMasjid -6.921310 107.606881
+JalanMasukUtaraAlun-Alun -6.921492 107.607441
+MonumenAsiaAfrika -6.921312 107.607738
+TerowonganAsiaAfrika -6.921250 107.607922
+1 1 0 0 0 0 1 0
+1 1 1 0 0 1 0 0
+0 1 1 1 0 0 0 0
+0 0 1 1 1 0 0 0
+0 0 0 1 1 1 0 0
+0 0 0 0 1 1 1 0
+1 0 0 0 0 1 1 1
+0 0 0 0 0 0 1 1

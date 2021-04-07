@@ -1,0 +1,17 @@
+8
+BuahBatuSquare -6.966667 107.637721
+TerowonganBawahTol -6.965933 107.637848
+JalanMasukPerumahanBuahBatuSquare -6.966501 107.639485
+YogyaBojongsoang -6.968058 107.637367
+AyamGeprekPangeran -6.968737 107.637226
+PertigaanCiganitri-Bojongsoang -6.968737 107.637226
+GardenCityEstate -6.969947 107.639155
+SPBU -6.971127 107.636602
+1 1 1 1 0 0 0 0
+1 1 0 0 0 0 0 0
+1 0 1 0 0 0 0 0
+1 0 0 1 1 0 0 0
+0 0 0 1 1 1 0 0
+0 0 0 0 1 1 1 1
+0 0 0 0 0 1 1 0
+0 0 0 0 0 1 0 1
